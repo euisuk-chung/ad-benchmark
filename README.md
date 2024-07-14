@@ -1,2 +1,2 @@
 # ad-benchmark
-anomaly detection benchmark datasets
+Anomaly Detection benchmark datasets
